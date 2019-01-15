@@ -1,0 +1,9 @@
+.idea/
+*.pyc
+*tar
+
+# single_tracking/results/
+single_tracking/submission/generated/
+# multi_tracking/results/
+# totem_comparator/results/
+totem_comparator/submission/generated/
