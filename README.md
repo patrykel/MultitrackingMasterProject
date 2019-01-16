@@ -46,9 +46,13 @@ We stored results for multitracking in:
 And this is a <span style="color:red">**MUST SEE**</span> results for group TOP from left arm:
 <https://github.com/patrykel/MultitrackingMasterProject/blob/master/SWAN_result_graphics/multitracking/1_top_heatmaps.ipynb>
 
+![alt text](https://github.com/patrykel/MultitrackingMasterProject/blob/master/SWAN_result_graphics/multitracking/hits_png/Hits_RP_20_ALL.png "Reconstructed multitracking hits projected on the plane in RP 20")
+
 We stored also results for single tracking and comparison with TOTEM results in:
 <https://github.com/patrykel/MultitrackingMasterProject/tree/master/SWAN_result_graphics/single/plots>
 
 ## CONTACT
 
-If you have any questions feel free to contact
+If you have any questions feel free to contact me.
+
+Ciao!
